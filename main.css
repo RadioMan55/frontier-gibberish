@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin: 0; padding: 0; }
+
+article, aside, figure, header, footer, nav, section { display: block; }
